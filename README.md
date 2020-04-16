@@ -7,4 +7,7 @@ In this sketch I had attempted to plot a lissajous curve that varies with an aud
 ## Fourier Circle Experiment
 In this sketch I isolated the circles that can be used to graph a Fourier transform. Its color changes with the ambient noise, as does the opacity, speed of rotation, and number of circles. In the future I want it to either draw a path or adjust the colors so they're prettier. It was a nice introduction to Fourier circles thought. Below is a snapshot:
 ![](https://github.com/olearyf/Ambient-Sound-Visualizers/blob/master/images/Screenshot%20(183).png "Fourier Circle Experiment")
-*this is a note to myself to continue to add images, and to take screenshots of these programs in varying states and create a tiled result
+*this is a note to myself to continue to add images, and to take screenshots of these programs in varying states and create a tiled result*
+## Flying Nums
+This sketch isn't sound reactive but it didn't seem to warrant its own repo to its here. It basically sandwiches you between two moving 'terrain' maps of digits 0-9, and you can move around the space using PeasyCam. Below is a snapshot:
+![](https://github.com/olearyf/Ambient-Sound-Visualizers/blob/master/images/Screenshot%20(205).png)
