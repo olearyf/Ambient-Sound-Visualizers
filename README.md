@@ -11,3 +11,6 @@ In this sketch I isolated the circles that can be used to graph a Fourier transf
 ## Flying Nums
 This sketch isn't sound reactive but it didn't seem to warrant its own repo to its here. It basically sandwiches you between two moving 'terrain' maps of digits 0-9, and you can move around the space using PeasyCam. Below is a snapshot:
 ![](https://github.com/olearyf/Ambient-Sound-Visualizers/blob/master/images/Screenshot%20(205).png)
+## Math Practice
+This sketch also isn't sound reactive but it's Processing so I thought I'd put it here. Helping me understand differential equations and linear algebra; specifically phase portraits. Below is a snapshot:
+![](https://github.com/olearyf/Ambient-Sound-Visualizers/blob/master/images/result.png)
